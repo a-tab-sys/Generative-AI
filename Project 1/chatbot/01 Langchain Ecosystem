@@ -1,0 +1,17 @@
+Langchain is a generic framework that will help you build LLM applications
+
+provides a complete ecosystem to create gen AI powered apps irrespective of the LLM model.
+
+Langchain is built up of
+- Langsmith: help monitor, debug and test applications
+- Langserve: used for deploying. say you created your LLM application -> you ant this appliction in the form of APIs. You can write this code from scratch using flask or another library.But Langserve uses something called fast API, this make it very easy to create this API
+- Chains:
+- Agents, Retrival:
+- LCEL: Langchain Expressison 
+- LLM: Open AI, Open Source. We need to know how to use LLM's in a generic way to build applications regardless of the model. (Creating the best LLM is a rat race for tech giants. google, meta, anthropic, OpenAI are all competing to make the best LLM)
+Concepts: {Model I/O, Retriver, Agent Tooling}
+
+
+2 WAYS TO INTEGRATE AN OPEN SOURCE LLM
+1. Hugging Face
+2. Langchain Components
