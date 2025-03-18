@@ -1,0 +1,8 @@
+Learn how to create API's for all kinds of LLM models
+
+This will allow us to do deployment in a very effecient manner
+
+How are we going to create API's?
+- we will use langserve and lang chain along with fast API
+- we will create a sag swagger UI which is provided by langchain
+

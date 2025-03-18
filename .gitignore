@@ -1,0 +1,14 @@
+# Ignore .env file
+.env
+
+# This tells Git to ignore the .env file and prevents it from being committed to your repository.
+
+# Check the Status in Git:
+
+# If you had already committed the .env file to Git earlier, you'll need to untrack it by using the following commands in your terminal:
+# bash
+# Copy
+# Edit
+# git rm --cached .env
+# git commit -m "Remove .env from version control"
+# After this, the .env file will be ignored and won’t be included in future commits.

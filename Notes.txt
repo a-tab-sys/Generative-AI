@@ -1,0 +1,11 @@
+1.
+# SO YOU MADE A REQUIREMENTS TEXT FILE - this will install all your requirements
+# pip install -r requirements.txt in terminal
+2.
+# if you wanted to ask alot of code related questions
+# there is such thing as code llama which you can use directly
+
+
+
+
+
