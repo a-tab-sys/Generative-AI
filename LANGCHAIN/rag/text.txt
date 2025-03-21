@@ -1,0 +1,12 @@
+What has been done here:
+Ccreated a simple rag pipeline
+1. Load -> loaded a couple different datasets using some data ingestion techniques availbale in langchain
+
+2. Tranformation -> broke down bigger pdfs into chunks
+
+3. converted the chunks into vectors and stored it in a vector store.
+
+4. with query we retrieved some data available in the vector store
+
+Query vectors are not that effecient in terms of retrieving entire results. here we will use llm models. using some prompts we will take the prompts and using the concept of chain and retrieval (these use llm models)
+and based on the prompts we will try to get a response.
